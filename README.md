@@ -48,11 +48,11 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="mailto:YOUR_GMAIL@gmail.com">
+  <a href="mailto:nirajgupta2748@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+  <a href="in/niraj-gupta-08086236b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
