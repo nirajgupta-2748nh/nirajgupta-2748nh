@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="linkedin.com/in/niraj-gupta-08086236b" target="_blank">
+  <a href="https://www.linkedin.com/in/niraj-gupta-08086236b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
